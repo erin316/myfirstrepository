@@ -1,0 +1,6 @@
+{'id': 1, 'name': 'chenwie', 'score': 23}
+{'id': 2, 'name': 'ss', 'score': 43}
+{'id': 1, 'name': 'ss', 'score': 98}
+gsuejeuend
+dhduijdhewd
+dheibfwehfewihwi
